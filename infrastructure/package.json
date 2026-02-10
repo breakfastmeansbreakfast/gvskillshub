@@ -20,7 +20,7 @@
     "@types/jest": "29.5.14",
     "@types/node": "22.19.8",
     "aws-cdk": "2.1104.0",
-    "axios": "1.13.4",
+    "axios": "^1.13.5",
     "jest": "29.7.0",
     "ts-jest": "29.4.6",
     "ts-node": "10.9.2",
@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "aws-cdk-lib": "2.237.1",
-    "constructs": "10.4.5",
-    "cdk-nag": "2.37.55"
+    "cdk-nag": "2.37.55",
+    "constructs": "10.4.5"
   }
 }
