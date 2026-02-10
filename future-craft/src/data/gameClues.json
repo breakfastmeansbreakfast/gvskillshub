@@ -1,0 +1,338 @@
+[
+  {
+    "id": "brand-1",
+    "category": "brand",
+    "emojiClue": "⭐💰💰",
+    "answer": "starbucks",
+    "hint": "High street coffee shop",
+    "difficulty": "medium"
+  },
+  {
+    "id": "brand-2",
+    "category": "brand",
+    "emojiClue": "✖️🟦",
+    "answer": "xbox",
+    "hint": "Game console",
+    "difficulty": "easy"
+  },
+  {
+    "id": "brand-3",
+    "category": "brand",
+    "emojiClue": "▶️🚉",
+    "answer": "playstation",
+    "hint": "Game console",
+    "difficulty": "medium"
+  },
+  {
+    "id": "brand-4",
+    "category": "brand",
+    "emojiClue": "🚪🏃‍♀️",
+    "answer": "doordash",
+    "hint": "Food delivery App",
+    "difficulty": "easy"
+  },
+  {
+    "id": "brand-5",
+    "category": "brand",
+    "emojiClue": "🐊🦻",
+    "answer": "gatorade",
+    "hint": "Energy drink",
+    "difficulty": "medium"
+  },
+  {
+    "id": "brand-6",
+    "category": "brand",
+    "emojiClue": "🚽🚽🍋",
+    "answer": "lululemon",
+    "hint": "Yoga and activewear store",
+    "difficulty": "hard"
+  },
+  {
+    "id": "brand-7",
+    "category": "brand",
+    "emojiClue": "🥅F👅👅",
+    "answer": "netflix",
+    "hint": "tv and video streaming service",
+    "difficulty": "hard"
+  },
+  {
+    "id": "brand-8",
+    "category": "brand",
+    "emojiClue": "🧭⬆️😐",
+    "answer": "north face",
+    "hint": "Outdoor clothing brand",
+    "difficulty": "hard"
+  },
+  {
+    "id": "brand-9",
+    "category": "brand",
+    "emojiClue": "🔴🎯",
+    "answer": "red bull",
+    "hint": "Energy drink",
+    "difficulty": "easy"
+  },
+  {
+    "id": "brand-10",
+    "category": "brand",
+    "emojiClue": "✅📌",
+    "answer": "tic tac",
+    "hint": "Small breath mint",
+    "difficulty": "very hard"
+  },
+  {
+    "id": "film-1",
+    "category": "film",
+    "emojiClue": "🔍🐠",
+    "answer": "finding nemo",
+    "hint": "Film about fish looking for his son",
+    "difficulty": "easy"
+  },
+  {
+    "id": "film-2",
+    "category": "film",
+    "emojiClue": "🦁👑",
+    "answer": "lion king",
+    "hint": "Musical including 'Circle of Life' and 'Hakuna Matata'",
+    "difficulty": "easy"
+  },
+  {
+    "id": "film-3",
+    "category": "film",
+    "emojiClue": "🕷️👨",
+    "answer": "spiderman",
+    "hint": "Marvel superhero",
+    "difficulty": "easy"
+  },
+  {
+    "id": "film-4",
+    "category": "film",
+    "emojiClue": "🦇👨",
+    "answer": "batman",
+    "hint": "DC superhero",
+    "difficulty": "easy"
+  },
+  {
+    "id": "film-5",
+    "category": "film",
+    "emojiClue": "3️⃣🔑🍟📆",
+    "answer": "freaky friday",
+    "hint": "Films about a mum and daughter who magically swap bodies",
+    "difficulty": "very hard"
+  },
+  {
+    "id": "film-6",
+    "category": "film",
+    "emojiClue": "🖋️🟥ℹ️🐂🐂",
+    "answer": "the incredibles",
+    "hint": "Film about a family of superheroes",
+    "difficulty": "very hard"
+  },
+  {
+    "id": "film-7",
+    "category": "film",
+    "emojiClue": "💰⚽",
+    "answer": "moneyball",
+    "hint": "Baseball film about finding great cheap players",
+    "difficulty": "hard"
+  },
+  {
+    "id": "film-8",
+    "category": "film",
+    "emojiClue": "🔇🐑🐑🐑",
+    "answer": "silence of the lambs",
+    "hint": "Film about an FBI agent working with a psychopath to catch killers",
+    "difficulty": "hard"
+  },
+  {
+    "id": "sport-1",
+    "category": "sport",
+    "emojiClue": "®️🍒",
+    "answer": "archery",
+    "hint": "Sport using bow and arrows",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sport-2",
+    "category": "sport",
+    "emojiClue": "😭🐱",
+    "answer": "cricket",
+    "hint": "Sport using bat and wickets",
+    "difficulty": "hard"
+  },
+  {
+    "id": "sport-3",
+    "category": "sport",
+    "emojiClue": "🧺⚽",
+    "answer": "basketball",
+    "hint": "Court sport with hoops",
+    "difficulty": "easy"
+  },
+  {
+    "id": "sport-4",
+    "category": "sport",
+    "emojiClue": "🟪🇮🆖",
+    "answer": "boxing",
+    "hint": "Fighting sport in a ring",
+    "difficulty": "hard"
+  },
+  {
+    "id": "sport-5",
+    "category": "sport",
+    "emojiClue": "👣🏐",
+    "answer": "football",
+    "hint": "The most popular sport worldwide",
+    "difficulty": "easy"
+  },
+  {
+    "id": "sport-6",
+    "category": "sport",
+    "emojiClue": "🔟🇮🇮",
+    "answer": "tennis",
+    "hint": "Racket and ball sport with a net in the middle",
+    "difficulty": "very hard"
+  },
+  {
+    "id": "sport-7",
+    "category": "sport",
+    "emojiClue": "🏊‍♀️🚴🏃",
+    "answer": "triathalon",
+    "hint": "Multi-sport race involing swimming, cycling and running",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography-1",
+    "category": "geography",
+    "emojiClue": "👁️🌕🗼",
+    "answer": "eiffel tower",
+    "hint": "Iron landmark in Paris",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography-2",
+    "category": "geography",
+    "emojiClue": "🥇🔛🏞️🏞️",
+    "answer": "golden valley",
+    "hint": "Gloucestershire's cyber park",
+    "difficulty": "very hard"
+  },
+ {
+    "id": "geography-3",
+    "category": "geography",
+    "emojiClue": "🦶🔑🅾️",
+    "answer": "tokyo",
+    "hint": "Japanese city",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography-4",
+    "category": "geography",
+    "emojiClue": "@🐔🐔🐔",
+    "answer": "athens",
+    "hint": "Greek city",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography-5",
+    "category": "geography",
+    "emojiClue": "🔔🏋️",
+    "answer": "belgium",
+    "hint": "Country between France and Netherlands",
+    "difficulty": "hard"
+  },
+ {
+    "id": "geography-6",
+    "category": "geography",
+    "emojiClue": "😡🅰️⛽🚗",
+    "answer": "madagascar",
+    "hint": "Island nation of the east coast of Africa",
+    "difficulty": "very hard"
+  },
+  {
+    "id": "geography-7",
+    "category": "geography",
+    "emojiClue": "🅾️👨",
+    "answer": "oman",
+    "hint": "Middle eastern country",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography-8",
+    "category": "geography",
+    "emojiClue": "🐈®️",
+    "answer": "qatar",
+    "hint": "Middle eastern country",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography-9",
+    "category": "geography",
+    "emojiClue": "🍳🅰️Ⓜ️🅰️",
+    "answer": "panama",
+    "hint": "Central American country with a famous canal",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography-10",
+    "category": "geography",
+    "emojiClue": "🦠🅰️🦵",
+    "answer": "germany",
+    "hint": "European country",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography-11",
+    "category": "geography",
+    "emojiClue": "🥫➕🅰️",
+    "answer": "canada",
+    "hint": "North American country",
+    "difficulty": "hard"
+  },
+  {
+    "id": "saying-1",
+    "category": "saying",
+    "emojiClue": "🎣2️⃣2️⃣",
+    "answer": "catch 22",
+    "hint": "An impossible situation",
+    "difficulty": "hard"
+  },
+  {
+    "id": "saying-2",
+    "category": "saying",
+    "emojiClue": "⬆️5️⃣",
+    "answer": "high five",
+    "hint": "Celebrate by slapping hands",
+    "difficulty": "medium"
+  },
+  {
+    "id": "saying-3",
+    "category": "saying",
+    "emojiClue": "🔙2️⃣🟥1️⃣",
+    "answer": "back to square one",
+    "hint": "Start again from the beginning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "saying-4",
+    "category": "saying",
+    "emojiClue": "🐝➡️🔙",
+    "answer": "be right back",
+    "hint": "Leave and return afterwards",
+    "difficulty": "medium"
+  },
+  {
+    "id": "saying-5",
+    "category": "saying",
+    "emojiClue": "🧈🖐️",
+    "answer": "butterfingers",
+    "hint": "Someone who often drops things or is clumsy",
+    "difficulty": "hard"
+  },
+  {
+    "id": "saying-6",
+    "category": "saying",
+    "emojiClue": "🌧️🐱➕🐶",
+    "answer": "raining cats and dogs",
+    "hint": "Idiom about very bad weather",
+    "difficulty": "easy"
+  }
+]

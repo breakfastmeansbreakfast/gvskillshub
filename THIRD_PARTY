@@ -1,0 +1,73 @@
+THIRD PARTY NOTICES
+====================
+
+This project includes software developed by third parties and governed by separate license terms.
+
+================================================================================
+
+axe-core v4.11.1
+----------------
+Copyright (c) 2015-2024 Deque Systems, Inc.
+
+Source Repository: https://github.com/dequelabs/axe-core
+License: Mozilla Public License 2.0 (MPL-2.0)
+License URL: https://www.mozilla.org/en-US/MPL/2.0/
+
+This package is used unmodified for accessibility testing functionality.
+
+Description:
+axe-core is an accessibility testing engine for automated Web UI testing.
+It provides a library for testing HTML-based user interfaces for accessibility
+issues.
+
+================================================================================
+
+lightningcss v1.30.2
+--------------------
+Copyright (c) 2021-2024 Devon Govett
+
+Source Repository: https://github.com/parcel-bundler/lightningcss
+License: Mozilla Public License 2.0 (MPL-2.0)
+License URL: https://www.mozilla.org/en-US/MPL/2.0/
+
+This package is used unmodified for CSS optimization and transformation.
+
+Description:
+Lightning CSS is an extremely fast CSS parser, transformer, bundler, and
+minifier written in Rust. It handles vendor prefixing, syntax lowering,
+and minification.
+
+================================================================================
+
+MOZILLA PUBLIC LICENSE 2.0 - SUMMARY
+=====================================
+
+The Mozilla Public License 2.0 (MPL-2.0) is a weak copyleft license that:
+
+1. Allows use in proprietary software
+2. Requires that modifications to MPL-licensed files remain under MPL
+3. Does not require disclosure of proprietary code that uses the library
+4. Requires providing source code for the MPL-licensed components
+5. Allows static and dynamic linking without license propagation to your code
+
+For the complete license text, visit: https://www.mozilla.org/en-US/MPL/2.0/
+
+COMPLIANCE STATEMENT
+====================
+
+The above-mentioned packages are used in their unmodified form as distributed
+by their respective copyright holders. Source code for these packages is
+available at the repository URLs listed above.
+
+This software complies with the Mozilla Public License 2.0 terms by:
+- Using the packages unmodified
+- Providing attribution and copyright notices
+- Including this THIRD_PARTY notice file
+- Providing links to source repositories
+- Making no modifications to the MPL-licensed code
+
+For questions regarding these third-party components, please refer to their
+respective source repositories.
+
+================================================================================
+Last Updated: February 4, 2026

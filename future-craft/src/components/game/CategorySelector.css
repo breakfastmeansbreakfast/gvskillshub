@@ -1,0 +1,233 @@
+.category-selector {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+}
+
+.category-selector h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+.category-selector p {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 1.5rem;
+  line-height: 1.4;
+}
+
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+/* Make the random button span full width of top row */
+.category-button.random-button {
+  grid-column: 1 / -1;
+  min-height: 100px;
+  background: white;
+  color: #333;
+}
+
+.category-button.random-button:hover {
+  background: #f8f9ff;
+  border-color: #0056b3;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 123, 255, 0.2);
+}
+
+.category-button.random-button.selected {
+  background: #f8f9ff;
+  border-color: #007bff;
+  box-shadow: 0 4px 12px rgba(0, 123, 255, 0.3);
+}
+
+.category-button.random-button .category-emoji {
+  font-size: 2.5rem;
+}
+
+.category-button.random-button .category-name {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.category-button.random-button .category-description {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.category-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.75rem 0.5rem;
+  border: 2px solid #e0e0e0;
+  border-radius: 8px;
+  background: white;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  min-height: 80px;
+  text-align: center;
+}
+
+.category-button:hover {
+  border-color: #007bff;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0, 123, 255, 0.15);
+}
+
+.category-button.selected {
+  border-color: #007bff;
+  background: #f8f9ff;
+  box-shadow: 0 2px 8px rgba(0, 123, 255, 0.2);
+}
+
+.category-emoji {
+  font-size: 1.5rem;
+  margin-bottom: 0.25rem;
+  display: block;
+}
+
+.category-name {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 0.1rem;
+  display: block;
+}
+
+.category-description {
+  font-size: 0.7rem;
+  color: #666;
+  display: block;
+  line-height: 1.2;
+}
+
+.start-game-button {
+  background: linear-gradient(135deg, #007bff, #0056b3);
+  color: white;
+  border: none;
+  padding: 1rem 2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  min-width: 250px;
+}
+
+.start-game-button:hover {
+  background: linear-gradient(135deg, #0056b3, #004085);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 123, 255, 0.3);
+}
+
+.start-game-button:active {
+  transform: translateY(0);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .category-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.4rem;
+  }
+
+  .category-button {
+    padding: 0.5rem 0.25rem;
+    min-height: 70px;
+  }
+
+  .category-button.random-button {
+    grid-column: 1 / -1;
+    min-height: 90px;
+  }
+
+  .category-button.random-button .category-emoji {
+    font-size: 2rem;
+  }
+
+  .category-button.random-button .category-name {
+    font-size: 1rem;
+  }
+
+  .category-button.random-button .category-description {
+    font-size: 0.8rem;
+  }
+
+  .category-emoji {
+    font-size: 1.25rem;
+  }
+
+  .category-name {
+    font-size: 0.75rem;
+  }
+
+  .category-description {
+    font-size: 0.65rem;
+  }
+
+  .start-game-button {
+    min-width: 200px;
+    padding: 0.75rem 1.25rem;
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .category-selector {
+    padding: 0.75rem;
+  }
+
+  .category-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.3rem;
+  }
+
+  .category-button {
+    min-height: 60px;
+    padding: 0.4rem 0.2rem;
+  }
+
+  .category-button.random-button {
+    grid-column: 1 / -1;
+    min-height: 80px;
+  }
+
+  .category-button.random-button .category-emoji {
+    font-size: 1.8rem;
+  }
+
+  .category-button.random-button .category-name {
+    font-size: 0.9rem;
+  }
+
+  .category-button.random-button .category-description {
+    font-size: 0.75rem;
+  }
+
+  .category-emoji {
+    font-size: 1rem;
+  }
+
+  .category-name {
+    font-size: 0.7rem;
+  }
+
+  .category-description {
+    font-size: 0.6rem;
+  }
+
+  .start-game-button {
+    width: 100%;
+    min-width: auto;
+    font-size: 0.85rem;
+  }
+}

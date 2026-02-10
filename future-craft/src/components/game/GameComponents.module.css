@@ -1,0 +1,185 @@
+/* Shared styles for game components */
+.sectionTitle {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+/* ClueDisplay styles */
+.clueDisplay {
+  width: 100%;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.clueContent {
+  padding: 1.5rem;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.emojiClue {
+  font-size: 3rem;
+  margin: 0;
+  letter-spacing: 0.5rem;
+}
+
+/* AnswerInput styles */
+.answerInput {
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+.answerForm {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.answerField {
+  flex: 1;
+  padding: 0.75rem;
+  font-size: 1rem;
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.answerField:focus {
+  border-color: #4CAF50;
+}
+
+.submitButton {
+  padding: 0.75rem 1.5rem;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.submitButton:hover {
+  background-color: #45a049;
+}
+
+.nextButton {
+  background-color: #2196F3;
+}
+
+.nextButton:hover {
+  background-color: #0b7dda;
+}
+
+/* HintSection styles */
+.hintSection {
+  width: 100%;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
+
+.hintContent {
+  display: flex;
+  justify-content: center;
+}
+
+.hint {
+  font-style: italic;
+  color: #666;
+}
+
+.hintButton {
+  padding: 0.5rem 1rem;
+  background-color: #ff9800;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.hintButton:hover {
+  background-color: #f57c00;
+}
+
+/* ScoreProgressBar styles */
+.scoreProgressContainer {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.scoreProgressInfo {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.25rem;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.scoreProgressBar {
+  width: 100%;
+  height: 8px;
+  background-color: #e0e0e0;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.scoreProgressFill {
+  height: 100%;
+  transition: width 0.1s ease-out, background-color 0.3s;
+}
+
+/* InfoSection styles */
+.infoSection {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.infoTitle {
+  font-size: 1.5rem;
+  color: #2E7D32;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.infoContent {
+  flex: 1;
+  padding: 1rem;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  overflow-y: auto;
+}
+
+.rulesList {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.rulesList li {
+  margin-bottom: 0.5rem;
+}
+
+.infoButton {
+  padding: 0.5rem 1rem;
+  background-color: #2196F3;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  font-weight: bold;
+  width: auto;
+  min-width: 150px;
+  text-align: center;
+}
+
+.infoButton:hover {
+  background-color: #0b7dda;
+}
