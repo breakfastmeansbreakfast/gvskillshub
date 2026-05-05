@@ -1,0 +1,554 @@
+[
+  {
+    "id": "brand-1",
+    "category": "brand",
+    "emojiClue": "🐊🦻",
+    "answer": "Gatorade",
+    "hint": "Energy Drink",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "brand-2",
+    "category": "brand",
+    "emojiClue": "🚽🚽🍋",
+    "answer": "Lululemon",
+    "hint": "Yoga and activewear store",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "brand-3",
+    "category": "brand",
+    "emojiClue": "🥅F👅👅",
+    "answer": "Netflix",
+    "hint": "Film streaming service",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "brand-4",
+    "category": "brand",
+    "emojiClue": "🧭⬆️😐",
+    "answer": "North Face",
+    "hint": "Outdoor clothing store",
+    "difficulty": "Very hard"
+  },
+  {
+    "id": "brand-5",
+    "category": "brand",
+    "emojiClue": "▶️🚉",
+    "answer": "Playstation",
+    "hint": "Gaming Console",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "brand-6",
+    "category": "brand",
+    "emojiClue": "⭐️💰💰",
+    "answer": "Starbucks",
+    "hint": "Coffee Shop",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "brand-7",
+    "category": "brand",
+    "emojiClue": "✅📌",
+    "answer": "Tic Tac",
+    "hint": "Small breathmint Sweet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "brand-8",
+    "category": "brand",
+    "emojiClue": "✖️🟦",
+    "answer": "Xbox",
+    "hint": "Gaming Console",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "brand-9",
+    "category": "brand",
+    "emojiClue": "🍔👑",
+    "answer": "Burger King",
+    "hint": "Fast food brand",
+    "difficulty": "easy"
+  },
+  {
+    "id": "brand-10",
+    "category": "brand",
+    "emojiClue": "👢🥾",
+    "answer": "Boots",
+    "hint": "High street brand, that sells pharmacy, beauty, and wellness products.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "brand-11",
+    "category": "brand",
+    "emojiClue": "ℹ️N🦌🐏",
+    "answer": "Instagram",
+    "hint": "Photo sharing app",
+    "difficulty": "very hard"
+  },
+  {
+    "id": "film-1",
+    "category": "film",
+    "emojiClue": "🦇👨",
+    "answer": "Batman",
+    "hint": "Superhero",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "film-2",
+    "category": "film",
+    "emojiClue": "🔍🐠",
+    "answer": "Finding Nemo",
+    "hint": "Looking for a fish",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "film-3",
+    "category": "film",
+    "emojiClue": "3️⃣🔑🍟📆",
+    "answer": "Freaky Friday",
+    "hint": "Daughter and mother magically swap places!",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": "film-4",
+    "category": "film",
+    "emojiClue": "🫟🟥ℹ️🐂🐂",
+    "answer": "Incredibles",
+    "hint": "A family of superheroes",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": "film-5",
+    "category": "film",
+    "emojiClue": "🦁👑",
+    "answer": "Lion King",
+    "hint": "Musical including 'Circle of Life' and 'Hakuna Matata'",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "film-6",
+    "category": "film",
+    "emojiClue": "💰⚽",
+    "answer": "Moneyball",
+    "hint": "Baseball film about using statistics to make a great team",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "film-7",
+    "category": "film",
+    "emojiClue": "🕷️👨",
+    "answer": "Spiderman",
+    "hint": "Superhero",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "film-8",
+    "category": "film",
+    "emojiClue": "🐝🎥",
+    "answer": "Bee Movie",
+    "hint": "Film about Barry B. Benson suing humans for exploiting animals",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "film-9",
+    "category": "film",
+    "emojiClue": "🐜👨🏻",
+    "answer": "Ant Man",
+    "hint": "Superhero who can shrink down to a tiny size",
+    "difficulty": "very easy"
+  },
+  {
+    "id": "film-10",
+    "category": "film",
+    "emojiClue": "🎓🥫🇺🇸",
+    "answer": "Captain America",
+    "hint": "Patriotic superhero, from Marvel comics",
+    "difficulty": "hard"
+  },
+  {
+    "id": "film-11",
+    "category": "film",
+    "emojiClue": "🦁🧙‍♀️👗",
+    "answer": "Chrnoicles of Narnia",
+    "hint": "Series of books about a fantasy land inside a wardrobe…",
+    "difficulty": "medium"
+  },
+  {
+    "id": "film-12",
+    "category": "film",
+    "emojiClue": "🧙‍♂️⛰️💍",
+    "answer": "Lord of the Rings",
+    "hint": "Series of books about a hobbit destroying a precious artifact.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "film-13",
+    "category": "film",
+    "emojiClue": "⬇️ton ⛪",
+    "answer": "Downton Abbey",
+    "hint": "TV Drama series set in a country home circa from 1912",
+    "difficulty": "hard"
+  },
+  {
+    "id": "film-14",
+    "category": "film",
+    "emojiClue": "🏠👦🚫👪",
+    "answer": "Home Alone",
+    "hint": "Christmas film about a boy who gets left behind!",
+    "difficulty": "medium"
+  },
+  {
+    "id": "film-15",
+    "category": "film",
+    "emojiClue": "🏴‍☠️🛥️🌊🏝️",
+    "answer": "Pirates of the Caribbean",
+    "hint": "Film about sailing rebels searching for treasure",
+    "difficulty": "easy"
+  },
+  {
+    "id": "film-16",
+    "category": "film",
+    "emojiClue": "⬆️🏫🎵🎶",
+    "answer": "High School Musical",
+    "hint": "Film about students Troy and Gabriella",
+    "difficulty": "hard"
+  },
+  {
+    "id": "film-17",
+    "category": "film",
+    "emojiClue": "🧛📘📘",
+    "answer": "Vampire Diaries",
+    "hint": "Teen drama series about a love triangle, involving two supernatural brothers!",
+    "difficulty": "hard"
+  },
+  {
+    "id": "film-18",
+    "category": "film",
+    "emojiClue": "👮🦊👮‍♀️🐰",
+    "answer": "Zootopia",
+    "hint": "Film about a modern mammal metropolis",
+    "difficulty": "medium"
+  },
+  {
+    "id": "film-19",
+    "category": "film",
+    "emojiClue": "🐔🏃‍♀️",
+    "answer": "Chicken Run",
+    "hint": "Stop-motion animated film about animals escaping from a farm",
+    "difficulty": "easy"
+  },
+  {
+    "id": "film-20",
+    "category": "film",
+    "emojiClue": "☁️🎲🍝",
+    "answer": "Cloudy with a Chance of Meatballs",
+    "hint": "Film about an inventor who makes food fall from the sky!",
+    "difficulty": "hard"
+  },
+  {
+    "id": "film-21",
+    "category": "film",
+    "emojiClue": "🌨️⚪👩",
+    "answer": "Snow White",
+    "hint": "Classic fairytaleprincess and titular story.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "film-22",
+    "category": "film",
+    "emojiClue": "🍖🕹️",
+    "answer": "Hunger Games",
+    "hint": "Film, with Katniss Everdeen, and twelve districts. ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "film-23",
+    "category": "film",
+    "emojiClue": "💀👰‍♀️",
+    "answer": "Corpse Bride",
+    "hint": "Gothic fantasy stop-motion animation film",
+    "difficulty": "easy"
+  },
+  {
+    "id": "film-24",
+    "category": "film",
+    "emojiClue": "🌇🗽9️9️",
+    "answer": "Brooklyn 99",
+    "hint": "TV Series about a New York police precinct",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography-1",
+    "category": "geography",
+    "emojiClue": "@🐔🐔🐔",
+    "answer": "Athens",
+    "hint": "Greece's capital city",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": "geography-2",
+    "category": "geography",
+    "emojiClue": "🔔🏋️",
+    "answer": "Belgium",
+    "hint": "European country between France and Netherlands",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "geography-3",
+    "category": "geography",
+    "emojiClue": "👁️⛽🗼",
+    "answer": "Eiffel Tower",
+    "hint": "Landmark in Paris",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": "geography-4",
+    "category": "geography",
+    "emojiClue": "😡🅰️⛽🚗",
+    "answer": "Madagascar",
+    "hint": "Island nation off the east of Africa",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": "geography-5",
+    "category": "geography",
+    "emojiClue": "🅾️👨",
+    "answer": "Oman",
+    "hint": "Middle Eastern Country",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "geography-6",
+    "category": "geography",
+    "emojiClue": "🐈®️",
+    "answer": "Qatar",
+    "hint": "Middle Eastern Country",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "geography-7",
+    "category": "geography",
+    "emojiClue": "🦶🔑🅾️",
+    "answer": "Tokyo",
+    "hint": "Japan's biggest city",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "geography-8",
+    "category": "geography",
+    "emojiClue": "🍳🅰️Ⓜ️🅰️",
+    "answer": "Panama",
+    "hint": "Central American country with a famous canal",
+    "difficulty": "very hard"
+  },
+  {
+    "id": "geography-9",
+    "category": "geography",
+    "emojiClue": "🦠🅰️🦵",
+    "answer": "Germany",
+    "hint": "European country",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "geography-10",
+    "category": "geography",
+    "emojiClue": "🥫➕🅰️",
+    "answer": "Canada",
+    "hint": "North American Country",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "geography-11",
+    "category": "geography",
+    "emojiClue": "🙅R➡️",
+    "answer": "Norway",
+    "hint": "Scandanavian country",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography-12",
+    "category": "geography",
+    "emojiClue": "🎶🅰️🐾",
+    "answer": "Singapore",
+    "hint": "Southeast Asian county",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography-13",
+    "category": "geography",
+    "emojiClue": "🎾👀",
+    "answer": "Tenesee",
+    "hint": "South Eastern American state",
+    "difficulty": "hard"
+  },
+  {
+    "id": "saying-1",
+    "category": "saying",
+    "emojiClue": "🔙2️⃣🟥1️⃣",
+    "answer": "Back To Square One",
+    "hint": "Starting from the beginning",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "saying-2",
+    "category": "saying",
+    "emojiClue": "🐝➡️🔙",
+    "answer": "Be Right Back",
+    "hint": "I'm leaving - but only for a moment!",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "saying-3",
+    "category": "saying",
+    "emojiClue": "🧈🖐️",
+    "answer": "Butterfingers",
+    "hint": "Someone who often drops things or is clumsy!",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "saying-4",
+    "category": "saying",
+    "emojiClue": "🎣2️⃣2️⃣",
+    "answer": "Catch 22",
+    "hint": "an impossible situation where you cannot do one thing until you do another thing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "saying-5",
+    "category": "saying",
+    "emojiClue": "⬆️5️⃣",
+    "answer": "High Five",
+    "hint": "greet someone by slapping hands",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "saying-6",
+    "category": "saying",
+    "emojiClue": "🌧️🐱➕🐶",
+    "answer": "Raining Cats and Dogs",
+    "hint": "Idiom about very bad weather",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "saying-7",
+    "category": "saying",
+    "emojiClue": "🩸🌕",
+    "answer": "Blood Moon",
+    "hint": "Night sky phenomenon where the total eclipse goes red!",
+    "difficulty": "medium"
+  },
+  {
+    "id": "saying-8",
+    "category": "saying",
+    "emojiClue": "💔🅰️🦵",
+    "answer": "Break a leg",
+    "hint": "Theatre term for \"Good Luck!\"",
+    "difficulty": "hard"
+  },
+  {
+    "id": "saying-9",
+    "category": "saying",
+    "emojiClue": "📖🐍",
+    "answer": "Bookworm",
+    "hint": "Nickname for someone who reads a lot",
+    "difficulty": "easy"
+  },
+  {
+    "id": "saying-10",
+    "category": "saying",
+    "emojiClue": "👁️🔀👁️",
+    "answer": "Eye for an Eye",
+    "hint": "Saying about justice needing equal punishment",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sport-1",
+    "category": "Sport",
+    "emojiClue": "®️🍒",
+    "answer": "Archery",
+    "hint": "Sport using bow and arrows.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sport-2",
+    "category": "Sport",
+    "emojiClue": "🧺⚽",
+    "answer": "Basketball",
+    "hint": "Court sport where you score hoops",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sport-3",
+    "category": "Sport",
+    "emojiClue": "📦🇮🆖",
+    "answer": "Boxing",
+    "hint": "Fighting sport that takes place in a ring",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "sport-4",
+    "category": "Sport",
+    "emojiClue": "😭🐱",
+    "answer": "Cricket",
+    "hint": "Bat and ball game with Wickets and Overs.",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": "sport-5",
+    "category": "Sport",
+    "emojiClue": "👣🏐",
+    "answer": "Football",
+    "hint": "Most popular sport in the world",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sport-6",
+    "category": "Sport",
+    "emojiClue": "🔟🇮🇮",
+    "answer": "Tennis",
+    "hint": "Racket and Ball game with a net in the middle.",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": "sport-7",
+    "category": "Sport",
+    "emojiClue": "🏊‍♀️🚴🏃",
+    "answer": "Triathalon",
+    "hint": "Multi-sport race involing swimming, cycling and running.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sport-8",
+    "category": "Sport",
+    "emojiClue": "🥅🏐",
+    "answer": "Netball",
+    "hint": "Sport where you can't move if you have the ball!",
+    "difficulty": "easy"
+  },
+  {
+    "id": "sport-9",
+    "category": "Sport",
+    "emojiClue": "❄️⛸️🇮🆖",
+    "answer": "Ice Skating",
+    "hint": "Sport that involves gliding on very, very cold water.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "sport-10",
+    "category": "Sport",
+    "emojiClue": "🐎🎢🇮🆖",
+    "answer": "Horseriding",
+    "hint": "Equine pasttime, for pleasure or sport!",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sport-11",
+    "category": "Sport",
+    "emojiClue": "🦵📦🇮🆖",
+    "answer": "Kickboxing",
+    "hint": "Fighting sport , but only using your legs!",
+    "difficulty": "hard"
+  }
+]
